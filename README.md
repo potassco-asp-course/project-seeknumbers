@@ -7,7 +7,7 @@ To submit your solution, please modify the file [seeknumbers.lp](asp/seeknumbers
 Every time you push a new commit, your solution will be tested automatically.
 The timeout per instance is `180` seconds, and
 the actual command call for the test is:
-* ``python3.6 asp/test.py asp/sudoku.lp 180 SAT``
+* ``python3.6 asp/test.py asp/seeknumbers.lp 180 SAT``
 
 After a few minutes you will be able to see the result of the test in the **Actions** tab.
 You can get more information about the result of the test by clicking successively on:
