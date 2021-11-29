@@ -7,11 +7,12 @@ import time
 
 
 CLINGO = "/usr/share/miniconda/bin/clingo"
-INSTANCES = "instances/"
+CLINGO = "clingo"
+INSTANCES = "asp/instances/"
 REF_ENC = "checker.lp"
 DUMMY = "dummy.lp"
 SOLUS = "925"
-SOLUTIONS = "solutions/"
+SOLUTIONS = "asp/solutions/"
 
 
 def call_clingo(input_names, timeout):
