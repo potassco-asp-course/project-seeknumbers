@@ -7,7 +7,6 @@ import time
 
 
 CLINGO = "/usr/share/miniconda/bin/clingo"
-CLINGO = "clingo"
 INSTANCES = "asp/instances/"
 REF_ENC = "checker.lp"
 DUMMY = "dummy.lp"
